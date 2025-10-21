@@ -1,3 +1,5 @@
+fork别的大佬的项目，如需使用请关注原作者：https://gitee.com/wfeng0/canvas-editor
+
 # 基于 Canvas-editor 实现类 Word 协同编辑
 
 ## 项目介绍
